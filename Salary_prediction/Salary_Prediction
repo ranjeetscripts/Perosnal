@@ -1,0 +1,18 @@
+## Salary Prediction based on Country and Race
+The aim of this project to predict the salary of individuals from varied countries and races based on their demographics such as occupation, age, gender, experience, education, etc. The dataset is taken from Kaggle. The dataset has 32561 rows and 15 columns. The dataset has 8 independent variables and 1 target variable i.e Salary
+Aboout the dataset
+
+The dataset consists of a comprehensive collection of salary and demographic information with additional details on years of experience. It offers a valuable resource for studying the relationship between income and various socio-demographic factors. The demographic attributes include age, gender, education, country, and race, providing a diverse range of variables for analysis. Researchers can explore patterns and trends in income distribution across different demographic categories, allowing for insights into potential disparities or variations in earning potential. Moreover, the dataset incorporates the crucial dimension of years of experience, enabling investigations into the impact of professional tenure on salary levels. This aspect adds a dynamic aspect to the analysis, enabling researchers to examine how income varies based on both demographic characteristics and accumulated work experience. The dataset presents a rich opportunity for conducting comprehensive studies on income diversity and understanding the multifaceted factors influencing earning potential in today's workforce.
+
+Data Dictionary
+
+Column         	      Description
+
+Unnamed: 0	          Index
+Age	                  Age of the employee
+Education Level      	Education level of the employee
+Job Title	            Job title of the employee
+Years of Experience	  Years of experience of the employee
+Salary	              Salary of the employee
+Country	              Country of the employee
+Race	                Race of the employee
